@@ -1,0 +1,37 @@
+[
+
+{
+    "id":1,
+    "image":"/burger1.svg",
+    "name":"Bacon Storm",
+    "price":10200,
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere, ligula eu facilisis porttitor."
+
+},
+{
+    "id":2,
+    "image":"/burger2.svg",
+    "name":"Cheddar Warrior",
+    "price":12200,
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere, ligula eu facilisis porttitor."
+
+},
+{
+
+    "id":3,
+    "image":"/burger3.svg",
+    "name":"Crispy Dragon",
+    "price":8500,
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere, ligula eu facilisis porttitor."
+
+},
+{
+    "id":4,
+    "image":"/burger4.svg",
+    "name":"Pesto Breeze",
+    "price":10500,
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere, ligula eu facilisis porttitor."
+
+}
+
+]
